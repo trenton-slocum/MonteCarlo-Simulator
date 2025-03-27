@@ -1,4 +1,4 @@
-# DS5100-finalproject-nuf8ms
+# MonteCarlo-Simulator
 
 Name: Trenton Slocum\
 Project: Monte Carlo Simulator
